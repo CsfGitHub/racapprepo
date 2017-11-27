@@ -1,0 +1,296 @@
+[
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app",
+        {
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511822067000,
+            "changeTime": 1511822067000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main",
+        {
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511822067000,
+            "changeTime": 1511822067000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1511823921000,
+            "changeTime": 1511823921000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication",
+        {
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1511822376000,
+            "changeTime": 1511822376000,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/Race__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/Race__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2212,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "f604002c5bd08242b95b6bcfe0335671f305ac10"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/Attended__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/Attended__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "a77b599ba7e3019ec615d9bb2c6d2693c340f2c5"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/DateTime__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/DateTime__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "a728de53f0ec30a24e686de5450a30160282d5c5"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/Results__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/Results__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 359,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "7b6baa8c91f70685a8bf49641dd90a43d17465c8"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields/Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 966,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "cc63119750ce382b1c40dff0cd912353b4856f3d"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/layouts/Race__c-Formato Race.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/layouts/Race__c-Formato Race.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3201,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "f78b1944fe91eba1da1e633ad8104dd78628f7e4"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/tabs/Race__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/tabs/Race__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "75215d73ba88fdbc03728d0e663651a057b2b7a1"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4939,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "f3135f500772484a7da79232b0c07c708896951d"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5277,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "79668b5f628792a4c7a16d891d6df0ef869be42d"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4939,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "f3135f500772484a7da79232b0c07c708896951d"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17967,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "d5a1285a246781e297d1157d6f52b1bb5c4df955"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "fcd1cf527c8898695e962ecdb4ff99b84ab33abb"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "0038c30bed1bae47f9797159b6a0b60f0c8504bd"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/objects/Race__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "206f8e5659f09b2f31706618731296deca2830c5"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "b4c2132ba0aa15836d89dc6ccc8e970c3dfbfd28"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "79160e178280787d2bc332d457ffbd1de7cb78a5"
+        }
+    ],
+    [
+        "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/clemente.sanchez/Documents/DevTools/workspaces/RaceApplication/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1511824051000,
+            "changeTime": 1511824051000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
